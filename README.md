@@ -21,7 +21,7 @@ This app uses OpenCV and Google Cloud Vision API to detect Sudoku puzzles from a
 ## Installation
 ### 1. Clone the repository  
 Open your terminal or command prompt and run:  
-git clone https://github.com/AndrewWang1234/sudokuSolver.git
+git clone https://github.com/AndrewWang1234/sudokuSolver.git  
 cd sudokuSolver
 
 ### 2. Install Dependencies
@@ -29,6 +29,6 @@ Open your terminal or command prompt and run:
 pip install -r requirements.txt
 
 ### 3. Contact
-Please let me know if there are any bugs or issues with my project and the instructions. This is my first time posting a project to github so I am still very new to this stuff.
-gmail: w.andrew9504@gmail.com
+Please let me know if there are any bugs or issues with my project and the instructions. This is my first time posting a project to github so I am still very new to this stuff.  
+gmail: w.andrew9504@gmail.  
 phone: 512 774 0641
