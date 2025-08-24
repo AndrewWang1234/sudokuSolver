@@ -30,5 +30,5 @@ pip install -r requirements.txt
 
 ### 3. Contact
 Please let me know if there are any bugs or issues with my project and the instructions. This is my first time posting a project to github so I am still very new to this stuff.  
-gmail: w.andrew9504@gmail.  
+gmail: w.andrew9504@gmail.com  
 phone: 512 774 0641
