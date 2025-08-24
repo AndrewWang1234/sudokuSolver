@@ -1,0 +1,6 @@
+opencv-python
+numpy
+imutils
+matplotlib
+python-dotenv
+google-cloud-vision
