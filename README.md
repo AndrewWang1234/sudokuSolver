@@ -28,7 +28,7 @@ cd sudokuSolver
 Open your terminal or command prompt and run: 
 pip install -r requirements.txt
 
-Please let me know if there are any bugs or issues with my project and the instructions. This is my first time posting a project to github so I am still very new to this stuff. \n
-Contact: \n
-gmail: w.andrew9504@gmail.com \n
-phone number: 512 774 0641
+### 3. Contact
+Please let me know if there are any bugs or issues with my project and the instructions. This is my first time posting a project to github so I am still very new to this stuff.
+gmail: w.andrew9504@gmail.com
+phone: 512 774 0641
